@@ -26,7 +26,7 @@
 <p align="justify">
 Gerenciador de Tarefas.
  
-![](https://raw.githubusercontent.com/Heider1988/gerenciador-funcionarios/main/Screenshot_1.png)
+![](https://raw.githubusercontent.com/Heider1988/bluetasks-backend/master/print-apresentacao.gif)
 
 </p>
 
