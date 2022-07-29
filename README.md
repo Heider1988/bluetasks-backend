@@ -34,11 +34,11 @@ Gerenciador de Tarefas.
 
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` Realizar cadastro dos funcionários, podendo ser do setor de Tecnologia, Diretoria ou Recursos Humanos.
+:heavy_check_mark: `Funcionalidade 1:` Realizar cadastro de tarefas.
 
-:heavy_check_mark: `Funcionalidade 2:` Editar o cadastro dos funcionários.
+:heavy_check_mark: `Funcionalidade 2:` Editar e/ou excluir as tarefas.
 
-:heavy_check_mark: `Funcionalidade 3:` Excluir o cadastro dos funcionários.
+:heavy_check_mark: `Funcionalidade 3:` Marcar a tarefa como já realizada.
 
 ## Aplicação
 
