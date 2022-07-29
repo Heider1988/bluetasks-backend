@@ -24,7 +24,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-Gerenciador de Funcionários onde a empresa consegue inserir, editar e excluir os funcionários de determinados setores .
+Gerenciador de Tarefas.
  
 ![](https://raw.githubusercontent.com/Heider1988/gerenciador-funcionarios/main/Screenshot_1.png)
 
