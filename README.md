@@ -75,9 +75,9 @@ Para compilar o projeto em sua máquina local:
 </br>
 :heavy_check_mark: `Etapa 3:` Agora basta importar o projeto e efetuar o build.
 </br>
-:heavy_check_mark: `Etapa 4:` <a href="https://github.com/Heider1988/bluetasks-frontend">Clique aqui para acessar o repositório do front-end </a></p> . 
+:heavy_check_mark: `Etapa 4:` <a href="https://github.com/Heider1988/bluetasks-frontend">Clique aqui para acessar o repositório do front-end </a> . 
 </br>
-:heavy_check_mark: `Etapa 3:` Para rodar o front-end basta importar a pasta usando o Visual Studio e depois executar o comando "npm install"..
+:heavy_check_mark: `Etapa 5:` Para rodar o front-end basta importar a pasta usando o Visual Studio e depois executar o comando "npm install"..
 
 
 ## Desenvolvedores
