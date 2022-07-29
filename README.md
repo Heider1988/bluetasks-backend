@@ -44,7 +44,7 @@ Gerenciador de Tarefas.
 
 <div align="center">
 
- ![](https://raw.githubusercontent.com/Heider1988/gerenciador-funcionarios/main/crud-conectja.gif)
+ ![](https://raw.githubusercontent.com/Heider1988/bluetasks-backend/master/print-apresentacao.gif)
 
 </div>
 
@@ -52,29 +52,28 @@ Gerenciador de Tarefas.
 
 ## Ferramentas e tecnolgoias utilizadas
 
-- ``Java 11 como linguagem de programação no back-end``
-- ``Spring Boot como Framework na construção da aplicação``
-- ``Html, CSS, JS, Bootstrap e Thymeleaf na parte do front-end``
-- ``Eclipse como IDE``
-- ``MySQL como banco de dados``
+- ``Java 13 como linguagem de programação no back-end``
+- ``React como linguagem no desenvolvimento do front-end``
+- ``Spring Boot como Framework na construção do WEB SERVICE``
+- ``IntelliJ IDEA como IDE``
+- ``H2 como banco de dados``
 - ``JUnit e Mockito para os testes``
-- ``Heroku para executar o deploy da aplicação``
 
 ###
 
 
 ## Acesso ao projeto
-<a href="https://app-conectja.herokuapp.com/home" target="_blank">Clique aqui para acessar o projeto no Heroku</a></p>
+<a href="#">Clique aqui para acessar o projeto no Heroku</a></p>
 
 ## Abrir e rodar o projeto
 
 Para compilar o projeto em sua máquina local:
 
-:heavy_check_mark: `Etapa 1:` Deve ter o Eclipse ou outra IDE da sua preferência instalada em sua máquina.
+:heavy_check_mark: `Etapa 1:` Deve ter uma IDE da sua preferência instalada em sua máquina.
 </br>
-:heavy_check_mark: `Etapa 2:` Banco de dados da sua preferência instalado. Já está adicionado ao porm.xml do projeto a depência do banco MySQL. Se estiver comentado alguma dessa depência basta descomentar conforme a sua necessidade.
+:heavy_check_mark: `Etapa 2:` Banco de dados da sua preferência instalado. Já está adicionado ao porm.xml do projeto a depência do banco H2. Se estiver comentado alguma dessa depência basta descomentar conforme a sua necessidade.
 </br>
-:heavy_check_mark: `Etapa 3:` Agora basta importar o projeto e alterar o login e senha de banco de dados que está no arquivo application.properties.
+:heavy_check_mark: `Etapa 3:` Agora basta importar o projeto e efetuar o build.
 
 ## Desenvolvedores
 <div id="badges">
