@@ -63,7 +63,7 @@ Gerenciador de Tarefas.
 
 
 ## Acesso ao projeto
-<a href="#">Clique aqui para acessar o projeto no Heroku</a></p>
+<a href="https://www.linkedin.com/in/heider1988/">Clique aqui para acessar o projeto no Heroku</a></p>
 
 ## Abrir e rodar o projeto
 
