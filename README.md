@@ -71,10 +71,11 @@ Para compilar o projeto em sua máquina local:
 
 :heavy_check_mark: `Etapa 1:` Deve ter uma IDE da sua preferência instalada em sua máquina.
 </br>
-:heavy_check_mark: `Etapa 2:` Banco de dados da sua preferência instalado. Já está adicionado ao porm.xml do projeto a depência do banco H2. Se estiver comentado alguma dessa depência basta descomentar conforme a sua necessidade.
+:heavy_check_mark: `Etapa 2:` Banco de dados da sua preferência instalado. Já está adicionado ao build.gradle do projeto a depência do banco H2. Se estiver comentado alguma dessa depência basta descomentar conforme a sua necessidade.
 </br>
 :heavy_check_mark: `Etapa 3:` Agora basta importar o projeto e efetuar o build.
-:heavy_check_mark: `Etapa 3:` A pasta do front-end está nesse repositório com o nome bluetasks-front end. Para rodar o front-end basta importar a pasta usando o Visual Studio e depois executar o comando "npm install".
+</br>
+:heavy_check_mark: `Etapa 4:` A pasta do front-end está nesse repositório com o nome bluetasks-frontend. Para rodar o front-end basta importar a pasta usando o Visual Studio e depois executar o comando "npm install".
 
 ## Desenvolvedores
 <div id="badges">
