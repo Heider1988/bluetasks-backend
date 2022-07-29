@@ -24,7 +24,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-Gerenciador de Tarefas.
+Gerenciador de Tarefas desenvolvido com Java 13 no back-end e no front-end foi através do React. Já pensou em ter um gerenciado de tarefas dinâmico onde a tela não pisca ao clicar nos links ou mudar de página? Esse projeto que foi desenvolvido nesse propósito.
  
 ![](https://raw.githubusercontent.com/Heider1988/bluetasks-backend/master/print-apresentacao.gif)
 
